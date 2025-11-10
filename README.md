@@ -69,7 +69,7 @@ Developed in Python 3.10 using the following libraries:
 
 ## 🔗 Kaggle Competition
 **Regression with Abalone Dataset**  
-[Kaggle Link](https://www.kaggle.com/competitions/playground-series-s4e3)
+[Kaggle Link](https://www.kaggle.com/competitions/playground-series-s4e4)
 
 ---
 
@@ -77,5 +77,3 @@ Developed in Python 3.10 using the following libraries:
 Harrell, F. E. (2015). *Regression modeling strategies* (2nd ed.). Springer.  
 James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). *An introduction to statistical learning* (2nd ed.). Springer.  
 Kutner, M. H., Nachtsheim, C. J., & Neter, J. (2004). *Applied linear regression models* (4th ed.). McGraw Hill.
-[LinkedIn](https://www.linkedin.com/in/abigail-albury-bloom/)  
-GitHub: [alburybloom](https://github.com/alburybloom)
