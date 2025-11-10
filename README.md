@@ -49,7 +49,7 @@ These variables contribute most to model accuracy, reflecting the strong biologi
 ---
 
 ## 📂 Files in Repository
-- `AlburyBloomADDS8555-2_RS.ipynb` – Jupyter Notebook containing full code, RMSE table, and feature importance summary  
+- `AlburyBloomADDS8555_2_RS.ipynb` – Jupyter Notebook containing full code, RMSE table, and feature importance summary  
 - `Albury-BloomADDS8555-2_RS.docx` – Written report formatted in APA 7th edition  
 - `AlburyBloomADDS8555-2_RS.pdf` – PDF version of the written report  
 - `submission_lasso.csv` – Kaggle submission output for Lasso Regression model  
